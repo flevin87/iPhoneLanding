@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    max-width: 400px;
+    height: 100vh;
+    margin: 0 auto;
+    border: 2px solid black;
+    border-radius: 45px;
+}
+.navbar li{
+    display: inline;
+}
+.widget{
+    max-width: 350px;
+    height: 100px;
+    margin: 2em auto ;
+    border: 2px solid black;
+    border-radius: 30px;
+}
